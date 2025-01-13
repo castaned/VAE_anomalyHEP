@@ -13,7 +13,7 @@ Theory about VAEs:
 
 
 Useful blogs:
-[VAE1]([url](https://mbernste.github.io/posts/vae/))
+[VAE1](https://mbernste.github.io/posts/vae/)
 [VAE2](https://www.jeremyjordan.me/variational-autoencoders/)
 [VAE3](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
 
