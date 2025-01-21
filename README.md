@@ -2,7 +2,7 @@
 Repository to collect work related to AutoEncoders(AE) and Variational Autoencoders (VAEs) applications in HEP to train models for anomaly detection 
 
 
-###Theory about VAEs:
+### Theory about VAEs:
 
 [An introduction to Variational Autoencoders](https://arxiv.org/pdf/1906.02691)
 
@@ -16,10 +16,12 @@ Useful blogs:
 
 
 
-## Connect to ACARUS server using ondeman service 
+## Connect to ACARUS server using ondeman service using credential for ccd account
 
 
 [ACARUS](https://ondemand-acarus.unison.mx/pun/sys/dashboard)
+
+
 
 
 ## Examples for AEs and VAEs 
