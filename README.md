@@ -1,8 +1,10 @@
 # VAE
-Repository to collect work related to Variational Autoencoders applications in HEP 
+Repository to collect work related to AutoEncoders(AE) and Variational Autoencoders (VAEs) applications in HEP to train models for anomaly detection 
 
-Work inspirated in the following paper 
-[VAE for new physics searches](https://arxiv.org/abs/1811.10276)
+## Connect to ACARUS server using ondeman service 
+
+
+[ACARUS](https://ondemand-acarus.unison.mx/pun/sys/dashboard)
 
 
 Theory about VAEs:
