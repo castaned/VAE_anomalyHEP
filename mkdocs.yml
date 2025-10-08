@@ -1,0 +1,24 @@
+site_name: VAE Anomaly Detection HEP
+docs_dir: docs
+site_url: https://VAEanomalyHEP.mcd
+theme:
+  name: material
+  logo: assets/Escudo_Unison.png
+  palette: 
+    scheme: slate
+    primary: pink
+    accent: lime
+
+  
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
